@@ -1,0 +1,181 @@
+<!--A Design by W3layouts 
+Author: W3layout
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<html>
+<head>
+<title>Sam 'O' Nursery, Primary &amp; Secondary School | Home :: Sam 'O'</title>
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="js/jquery.min.js"></script>
+<script src="js/script.js"></script>
+<!-- Custom Theme files -->
+<!--theme-style-->
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />	
+
+<link rel="stylesheet" href="css/styles.css" media="all" />
+<!--//theme-style-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Edification Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!--fonts-->
+<link href='//fonts.googleapis.com/css?family=Viga' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Roboto:400,300,500,700,900,100' rel='stylesheet' type='text/css'>
+<!--//fonts-->
+<style>
+.columncount1{
+	-webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+	-webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 40px; /* Firefox */
+    column-gap: 40px;
+	text-align:justify;
+	padding-right:55px;
+	}
+
+</style>
+</head>
+<body>
+<!--header--><!--start-banner-->
+		<?php include("header1.php"); ?>
+<!--end-banner-->	
+<!--content--->
+
+	<div class="about">
+	 <div class="container"><?php
+ // DISPLAYING SLIDES IF USER IS IN THE INDEX PAGE
+ if(empty($_GET['_mode'])||$_GET['_mode']=="nursery")
+ {
+?>
+		 <div class="about-md">
+			 <h3><span>
+			   
+		     Nursery &amp; Primary</span> School</h3>
+			 <p>&nbsp;</p>
+		 </div>
+		 <div class="about-md1">
+		   <div class="col-md-6 col-3"><a href="#"></a></div>
+		   <div class="" style="margin:4px; padding:4px">
+			 <p style="padding-bottom:8px; font-size:20px">History</p>
+				<p ><div class="container columncount1 " >
+				  <p>Sam &lsquo;O&rsquo;  Nursery and Primary School was initially named God&rsquo;s Wisdom Nursery and Primary  School. The school Proprietor Mr. Samuel Ogunfowora started coaching some  children as preparation for school age. Gradually the number of the population  of the children was increasing and their parents were interested in the way the  children were responding and making progress. This encouraged the proprietor  and he started planning for a better organised way of teaching the children.</p>
+				  <p>This  eventually led to the founding of the school by the founding of the school by  the help of the almighty God on 18th day of September, 1995.<br>
+			      The school  started with eighteen pupils in attendance. To the glory of God the attendance  was double towards the end of that first term and the members of staff which  started the school were as follow:</p>
+                  <p>The first P.T.A meeting was held on  held on 5th of October 1995 and great was the response of the  parents. They praised the school for the efforts made in helping their children  to develop mentally, physically and academically.</p>
+                  <p>During the second term, there was a  tremendous increase in the population that led to the employment of the  following teachers more:</p>
+                  <p><br>
+                    Name                                      Designation                             Date of Appointment<br>
+                    1.   Miss Iyabo Obele               Teaching  Staff                         17-04-1996<br>
+                    2.   Mr T. Sonoiki                      Teaching  Staff                         11-06-1996<br>
+                    3.   Mrs. M. Uzoka                   Teaching  Staff                         16-01-1996</p>
+                  <p>As at the third term, the place that  is being used could not accommodate the pupils. Abigger place was sought for at  No 47 Buhari street, Ogudu, Lagos State. Even at this location there was speedy  progress among pupils and the population was also increasing. Another teacher  was also employed during the term by name Mr. Samuel ex. Due to the progress  the proprietor was on the look out for more conducive environment that will aid  the learning of the pupils. To the glory of God, a better accommodation was  discovered for the school at No 1 Gafam Balogun steen, Ogudu. The school moved  to this new site on September 23rd, 1996. The school was officially  registered with Lagos State Ministry of Education    on 1st November 1996 and during the process the name  was changed from God&rsquo;s Wisdom to Sam &lsquo;O&rsquo; Nursery and Primary School.      Later, on the 14th day of  December 1996, the school celebrated it&rsquo;s first year anniversary. The chairman  for occasion was Mrs. Arogbodo. Some eminent people in the society were called  upon to grace the occasion. Series of event took place such as purposeful  recitation Drama ad Prize-Giving.<br>
+                  The School closed for the first term  1996/1997 on the 13th of December, 1996.</p>
+                  <p>The school resumed for the second  term 1996/1997 school year today with the first head-teacher of the school mrs  E. O. Ojofeitimi and the other seven(7) teachers and one(1) non-teaching staff.</p>
+</div>
+				</p>
+		
+		   </div>
+           
+			 <div class="clearfix"> </div>
+		 </div>
+     
+	 </div>
+         <?php 
+ 			}
+if($_GET['_mode']=="secondary")
+{
+//include("pages/news.php");
+?> 
+     <div class="container">
+		 <div class="about-md">
+			 <h3><span>Secondary School</span></h3>
+			 <p>&nbsp;</p>
+		 </div>
+		 <div class="about-md1">
+		   <div class="col-md-6 col-3"><a href="#"></a></div>
+		   <div class="" style="margin:4px; padding:4px">
+			 <p style="padding-bottom:8px; font-size:20px">History</p>
+				<p ><div class="container columncount1 " >
+				  <p>SAM &rsquo;O&rsquo; HIGH  SCHOOL was founded on the 18th September 2014.<br>
+The school  came into being due to the innovation in our education system (Basic Education)  as the 6-3-3-4 system.<br>
+With this  new system of education pupils in primary level are to spend 9 years before  they can be integrated into senior secondary school.<br>
+The students  are to spend 3 years in senior secondary school before giving admission into  higher institution of learning.<br>
+The school  commenced its full operation with the following members of staff</p>
+                  <ol>
+                    <li>Mr.  Samuel Ogunfowora</li>
+                    <li>Mr.  Gbenga Olarinde</li>
+                    <li>Mrs.  Sulaiman Alice</li>
+                    <li>Mrs.  Ogunlade Moralist</li>
+                    <li>Miss.  Akinya Omofolayeni</li>
+                    <li>Mr  Junaid</li>
+                    <li>Mr.  Isaq Sanni</li>
+                    <li>Miss  Jennifer Ehilegbu</li>
+                    <li>Mrs  Aosede Adebayo Akupelu</li>
+                    <li>Mr.  Wale</li>
+                  </ol>
+                  <div>
+                    <ol>
+                      <li>Mrs  Anigbogu</li>
+                    </ol>
+                  </div>
+		   </div></div>
+	  </div></div></div>
+	<span class="about-md1">
+	<?php } //close mode for secondary?>
+	</span>
+	<div class="book-top">					
+					
+				 <div class="container">
+					<div class="col-md-4 content-grid">
+						<img class="img-responsive" src="images/be5.jpg" alt=" "/>
+						<h5>Nursery School</h5>
+			          	<p>Sam &lsquo;O&rsquo;  Nursery and Primary School was initially named God&rsquo;s Wisdom Nursery and Primary  School...</p>
+			          	<a class="more hvr-shutter-in-horizontal" href="about.php">Read More</a>
+			       
+					</div>
+					<div class="col-md-4 content-grid">
+						<img class="img-responsive" src="images/be4.jpg" alt=" "/>
+						<h5>Primary School</h5>
+			          	<p>Sam &lsquo;O&rsquo;  Nursery and Primary School was initially named God&rsquo;s Wisdom Nursery and Primary  School...</p>
+			          	<a class="more hvr-shutter-in-horizontal" href="about.php">Read More</a>
+			       
+					</div>
+					<div class="col-md-4 content-grid">
+						<img class="img-responsive" src="images/be6.jpg" alt=" "/>
+						<h5>Secondary School</h5>
+			          	<p>SAM &rsquo;O&rsquo; HIGH  SCHOOL was founded on the 18th September 2014...</p>
+			          	<a class="more hvr-shutter-in-horizontal" href="about.php?_mode=secondary">Read More</a>
+			       
+					</div>
+					</div>
+					
+					<div class="clearfix"> </div>
+				</div>
+		<div class="grid-bottom"></div>	
+		
+	<!--footer-->
+	<div class=" footer">
+	<div class="footer-grid">
+				<div class="container">
+					<div class="footer-top">
+					<h3>Follow Us</h3>
+					<ul class="social">
+						<li><a href="#"><i> </i></a></li>						
+						<li><a href="#"><i class="twitter"> </i></a></li>
+						<li><a href="#"><i class="rss"> </i></a></li>
+						<li><a href="#"><i class="gmail"> </i></a></li>
+						
+					</ul>
+					<div class="clearfix"> </div>
+				</div>
+				</div>
+			</div>
+			<?php include("footer.php") ?>
+</body>
+</html>
+	
